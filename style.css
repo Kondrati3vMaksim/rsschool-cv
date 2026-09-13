@@ -10,6 +10,7 @@ body {
   flex-direction: column;
   margin-inline: auto;
   font-family: Arial, sans-serif;
+  justify-content: space-between;
 }
 
 h2, h3 {
